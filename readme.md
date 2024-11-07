@@ -1,6 +1,6 @@
 # PhasmoGadget
 
-![PhasmoGadget Logo]([https://imgur.com/a/7CmJ6l6])
+![PhasmoGadget Logo]([https://i.imgur.com/9ttYtLv.png])
 
 **PhasmoGadget** — это удобное приложение-компаньон для игроков Phasmophobia, которое помогает отслеживать и фиксировать найденные улики, определять тип призрака и эффективно управлять исследованиями во время игры.
 
