@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"ハント",
+"Timer_Hunt_Cursed":"ハント 呪われた",
+"Timer_Hunt_Post":"ハント その後",
+"Timer_Hunt_Post_Demon":"ハント その後 デーモン",
+"Timer_Hunt_Smudge":"スマッジング",
+"Timer_Smudge_Demon":"スマッジング デーモン",
+"Timer_Smudge_Spirit":"スマッジング スピリット",
+"Timer_Start":"開始",
+"Dif_Amateur":"▼ アマチュア",
+"Dif_Intermediate":"▼ セミプロ",
+"Dif_Nightmare":"▼ ナイトメア",
+"Dif_Professional":"▼ プロ",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]

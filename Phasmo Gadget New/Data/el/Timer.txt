@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"Κυνήγι",
+"Timer_Hunt_Cursed":"Κυνήγι Καταραμένα",
+"Timer_Hunt_Post":"Κυνήγι Επειτα",
+"Timer_Hunt_Post_Demon":"Κυνήγι Επειτα Δαίμονας",
+"Timer_Hunt_Smudge":"Εξορκισμός",
+"Timer_Smudge_Demon":"Εξορκισμός Δαίμονας",
+"Timer_Smudge_Spirit":"Εξορκισμός Σπίριτ",
+"Timer_Start":"Αρχίσουν",
+"Dif_Amateur":"▼ Ερασιτεχνική",
+"Dif_Intermediate":"▼ Ενδιάμεση",
+"Dif_Nightmare":"▼ Εφιαλτική",
+"Dif_Professional":"▼ Επαγγελματική",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]

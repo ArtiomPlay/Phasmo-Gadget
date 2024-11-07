@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"Jagd",
+"Timer_Hunt_Cursed":"Jagd Verflucht",
+"Timer_Hunt_Post":"Jagd Danach",
+"Timer_Hunt_Post_Demon":"Jagd Danach Dämon",
+"Timer_Hunt_Smudge":"Ausräuchern",
+"Timer_Smudge_Demon":"Ausräuchern Dämon",
+"Timer_Smudge_Spirit":"Ausräuchern Spirit",
+"Timer_Start":"Start",
+"Dif_Amateur":"▼ Anfänger",
+"Dif_Intermediate":"▼ Fortgeschritten",
+"Dif_Nightmare":"▼ Albtraum",
+"Dif_Professional":"▼ Profi",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]

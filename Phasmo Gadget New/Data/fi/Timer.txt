@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"Metsästys",
+"Timer_Hunt_Cursed":"Metsästys Kirotut",
+"Timer_Hunt_Post":"Metsästys Jälkeenpäin",
+"Timer_Hunt_Post_Demon":"Metsästys Jälkeenpäin Demoni",
+"Timer_Hunt_Smudge":"Suitsuttaminen",
+"Timer_Smudge_Demon":"Suitsuttaminen Demoni",
+"Timer_Smudge_Spirit":"Suitsuttaminen Henki",
+"Timer_Start":"Aloitus",
+"Dif_Amateur":"▼ Amatööri",
+"Dif_Intermediate":"▼ Keskitaso",
+"Dif_Nightmare":"▼ Painajainen",
+"Dif_Professional":"▼ Ammattilainen",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]

@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"Polowanie",
+"Timer_Hunt_Cursed":"Polowanie Przeklęty",
+"Timer_Hunt_Post":"Polowanie Następnie",
+"Timer_Hunt_Post_Demon":"Polowanie Następnie Demon",
+"Timer_Hunt_Smudge":"Okadzanie",
+"Timer_Smudge_Demon":"Okadzanie Demon",
+"Timer_Smudge_Spirit":"Okadzanie Spirit",
+"Timer_Start":"Początek",
+"Dif_Amateur":"▼ Amator",
+"Dif_Intermediate":"▼ Średni",
+"Dif_Nightmare":"▼ Koszmarny",
+"Dif_Professional":"▼ Profesjonalista",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]

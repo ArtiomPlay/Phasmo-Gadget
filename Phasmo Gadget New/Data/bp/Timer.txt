@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"Caçar",
+"Timer_Hunt_Cursed":"Caçar Possessões",
+"Timer_Hunt_Post":"Caçar Post",
+"Timer_Hunt_Post_Demon":"Caçar Post Demon",
+"Timer_Hunt_Smudge":"Incenso",
+"Timer_Smudge_Demon":"Incenso Demon",
+"Timer_Smudge_Spirit":"Incenso Spirit",
+"Timer_Start":"Começar",
+"Dif_Amateur":"▼ Amador",
+"Dif_Intermediate":"▼ Intermediário",
+"Dif_Nightmare":"▼ Pesadelo",
+"Dif_Professional":"▼ Profissional",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]

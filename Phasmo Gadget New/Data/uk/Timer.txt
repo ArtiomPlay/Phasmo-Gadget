@@ -1,0 +1,21 @@
+[
+
+{
+"Timer_Hunt":"Полювання",
+"Timer_Hunt_Cursed":"Полювання Прокляті",
+"Timer_Hunt_Post":"Полювання Після",
+"Timer_Hunt_Post_Demon":"Полювання Після Демон",
+"Timer_Hunt_Smudge":"Змазування",
+"Timer_Smudge_Demon":"Змазування Демон",
+"Timer_Smudge_Spirit":"Змазування Дух",
+"Timer_Start":"Початок",
+"Dif_Amateur":"▼ Любитель",
+"Dif_Intermediate":"▼ Середня",
+"Dif_Nightmare":"▼ Кошмарна",
+"Dif_Professional":"▼ Професіонал",
+"Small":"Bleasdale Farmhouse, Camp Woodwind, Edgefield Road, Grafton Farmhouse, Ridgeview Court, Sunny Meadows Restricted, Tanglewood Drive, Willow Street",
+"Medium":"Brownstone High School, Maple Lodge Campsite, Prison",
+"Big":"Sunny Meadows"
+}
+
+]
