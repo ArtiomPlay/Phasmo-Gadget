@@ -28,7 +28,7 @@ namespace PhasmoGadget.PhasmoGadget.Properties {
         }
         [UserScopedSetting]
         [DebuggerNonUserCode]
-        [DefaultSettingValue("6")]
+        [DefaultSettingValue("0")]
         public int Lang {
             get => (int)this[nameof(Lang)];
             set => this[nameof(Lang)]=(object)value;

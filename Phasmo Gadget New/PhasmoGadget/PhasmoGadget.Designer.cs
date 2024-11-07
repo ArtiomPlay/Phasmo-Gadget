@@ -1468,55 +1468,9 @@ namespace PhasmoGadget.PhasmoGadget {
         }
         private void setting_language() {
             if((int)Settings.Default["Lang"]==0)
-                this.var_language="bg";
-            if((int)Settings.Default["Lang"]==1)
-                this.var_language="bp";
-            if((int)Settings.Default["Lang"]==2)
-                this.var_language="cs";
-            if((int)Settings.Default["Lang"]==3)
-                this.var_language="da";
-            if((int)Settings.Default["Lang"]==4)
-                this.var_language="de";
-            if((int)Settings.Default["Lang"]==5)
-                this.var_language="el";
-            if((int)Settings.Default["Lang"]==6)
                 this.var_language="en";
-            if((int)Settings.Default["Lang"]==7)
-                this.var_language="es";
-            if((int)Settings.Default["Lang"]==8)
-                this.var_language="fi";
-            if((int)Settings.Default["Lang"]==9)
-                this.var_language="fr";
-            if((int)Settings.Default["Lang"]==10)
-                this.var_language="hu";
-            if((int)Settings.Default["Lang"]==11)
-                this.var_language="it";
-            if((int)Settings.Default["Lang"]==12)
-                this.var_language="ja";
-            if((int)Settings.Default["Lang"]==13)
-                this.var_language="ko";
-            if((int)Settings.Default["Lang"]==14)
-                this.var_language="nl";
-            if((int)Settings.Default["Lang"]==15)
-                this.var_language="no";
-            if((int)Settings.Default["Lang"]==16)
-                this.var_language="pl";
-            if((int)Settings.Default["Lang"]==17)
-                this.var_language="pt";
-            if((int)Settings.Default["Lang"]==18)
-                this.var_language="ro";
-            if((int)Settings.Default["Lang"]==19)
+            if((int)Settings.Default["Lang"]>=1)
                 this.var_language="ru";
-            if((int)Settings.Default["Lang"]==20)
-                this.var_language="sv";
-            if((int)Settings.Default["Lang"]==21)
-                this.var_language="tr";
-            if((int)Settings.Default["Lang"]==22)
-                this.var_language="uk";
-            if((int)Settings.Default["Lang"]==23)
-                this.var_language="zhcn";
-            if((int)Settings.Default["Lang"]>=24)
-                this.var_language="zhtw";
         }
         private void load_files_once() {
             try {
@@ -3480,32 +3434,9 @@ namespace PhasmoGadget.PhasmoGadget {
             this.cbLanguage.Font=new Font("Microsoft Sans Serif",9f,FontStyle.Regular,GraphicsUnit.Point,(byte)0);
             this.cbLanguage.ForeColor=Color.WhiteSmoke;
             this.cbLanguage.FormattingEnabled=true;
-            this.cbLanguage.Items.AddRange(new object[25] {
-                (object)"bg",
-                (object)"bp",
-                (object)"cs",
-                (object)"da",
-                (object)"de",
-                (object)"el",
+            this.cbLanguage.Items.AddRange(new object[2] {
                 (object)"en",
-                (object)"es",
-                (object)"fi",
-                (object)"fr",
-                (object)"hu",
-                (object)"it",
-                (object)"ja",
-                (object)"ko",
-                (object)"nl",
-                (object)"no",
-                (object)"pl",
-                (object)"pt",
-                (object)"ro",
-                (object)"ru",
-                (object)"sv",
-                (object)"tr",
-                (object)"uk",
-                (object)"zh-cn",
-                (object)"zh-tw",
+                (object)"ru"
                 });
             this.cbLanguage.Name="cbLanguage";
             this.cbLanguage.Size=new Size(121,23);
