@@ -157,7 +157,7 @@ To launch PG, ensure all requirements are met. If everything is set up correctly
 
 ## Установка и запус
 
-### Requirements
+### Системные требования
 
 - **ОС**: Windows 10 и выше
 - **Зависимости**: .Net Framework 4.8
