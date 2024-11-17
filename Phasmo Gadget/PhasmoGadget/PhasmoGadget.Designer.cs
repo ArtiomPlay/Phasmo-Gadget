@@ -1534,7 +1534,7 @@ namespace PhasmoGadget.PhasmoGadget {
                 if(this.TableList.Count==0)
                     this.TableList.Add(new Helper_Tables() {
                         Title=" ",
-                        Text=" "
+                        Text=new List<string> {""}
                     });
             }
         }
@@ -2408,7 +2408,7 @@ namespace PhasmoGadget.PhasmoGadget {
         private void cbInfo_SelectedIndexChanged(object sender,EventArgs e) {
             foreach(Helper_Tables table in this.TableList) {
                 if(this.cbInfo.SelectedItem.ToString()==table.Title) {
-                    this.rtbInfo.Text=table.Text;
+                    this.rtbInfo.Text=String.Join("\n",table.Text);
                     this.var_selectedIndex_Info=this.cbInfo.SelectedIndex;
                 }
             }
