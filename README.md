@@ -67,6 +67,8 @@ It works even without the game installed.
 No game data will be read, modified, or saved.
 
 ## Screenshots
+<img src="https://i.imgur.com/3TWZZln.png" alt="Sample Image" width="300">
+
 ![PhasmoGadget Main](https://i.imgur.com/3TWZZln.png){width=300px} ![PhasmoGadget Settings](https://i.imgur.com/yelarrO.png){width=300px}
 
 ![PhasmoGadget Main With Ghosts](https://i.imgur.com/ZZKvCkF.png){width=300px} ![PhasmoGadget Hints](https://i.imgur.com/l4pO7Ds.png){width=300px}
