@@ -67,11 +67,9 @@ It works even without the game installed.
 No game data will be read, modified, or saved.
 
 ## Screenshots
-<img src="https://i.imgur.com/3TWZZln.png" alt="Sample Image" width="300">
+<img src="https://i.imgur.com/3TWZZln.png" alt="PhasmoGadget Main" width="300"> <img src="https://i.imgur.com/yelarrO.png" alt="PhasmoGadget Settings" width="300">
 
-![PhasmoGadget Main](https://i.imgur.com/3TWZZln.png){width=300px} ![PhasmoGadget Settings](https://i.imgur.com/yelarrO.png){width=300px}
-
-![PhasmoGadget Main With Ghosts](https://i.imgur.com/ZZKvCkF.png){width=300px} ![PhasmoGadget Hints](https://i.imgur.com/l4pO7Ds.png){width=300px}
+<img src="https://i.imgur.com/ZZKvCkF.png" alt="PhasmoGadget Main With Ghosts" width="300"> <img src="https://i.imgur.com/l4pO7Ds.png" alt="PhasmoGadget Hints" width="300">
 
 ## Installation and launch
 
@@ -159,9 +157,9 @@ To launch PG, ensure all requirements are met. If everything is set up correctly
 Никакие игровые данные не читаются, не изменяются и не сохраняются.
 
 ## Скриншоты
-![PhasmoGadget Main](https://i.imgur.com/3TWZZln.png){width=300px} ![PhasmoGadget Settings](https://i.imgur.com/yelarrO.png){width=300px}
+<img src="https://i.imgur.com/3TWZZln.png" alt="PhasmoGadget Main" width="300"> <img src="https://i.imgur.com/yelarrO.png" alt="PhasmoGadget Settings" width="300">
 
-![PhasmoGadget Main With Ghosts](https://i.imgur.com/ZZKvCkF.png){width=300px} ![PhasmoGadget Hints](https://i.imgur.com/l4pO7Ds.png){width=300px}
+<img src="https://i.imgur.com/ZZKvCkF.png" alt="PhasmoGadget Main With Ghosts" width="300"> <img src="https://i.imgur.com/l4pO7Ds.png" alt="PhasmoGadget Hints" width="300">
 
 ## Установка и запус
 
