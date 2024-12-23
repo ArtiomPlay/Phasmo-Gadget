@@ -14,7 +14,51 @@
 	{
 		"Title":"Tips & Tricks",
 		"Text":[
-			""
+			"●Taking a photo of a cursed items, used or not, will yield a photo labelled as this item, and reward up to $5 and 5XP, depending on the distance it was taken from.",
+			"",
+			"●The Monkey Paw is one of the most versatile cursed possessions in the game, and can assist players in the completion of most objectives, especially as players can control when and where to employ its effects in order to quickly reach safety.",
+			"",
+			"●If not using the text UI, the Monkey Paw is always active when held. Be careful when speaking while holding it as you may accidentally call upon a wish.",
+			"  ●This is especially notable when using push-to-talk, as there are bugs that make the Monkey Paw listen to the player even if no voice chat button is being pressed.",
+			"",
+			"●The vision loss from wishes is very significant, making it near impossible for a player afflicted by it to see more than a meter or so in front of them. While this can be partially circumvented by setting game brightness to a very high value, the affected player will be more or less rendered helpless and will need to be guarded accordingly.",
+			"",
+			"●The music box can be broken down into two primary uses:",
+			"1) utilize the triggered ghost event and following hunt to complete relevant objectives or to identify the ghost type. Like with any other hunt-related activity, Smudge Sticks are highly recommended to avoid death",
+			"2) get the ghost to broadcast its current position to narrow down and locate its favourite room.",
+			"",
+			"●The music box is an easy way to obtain a ghost photo. In multiplayer games, one way is to have the photographer carry the smudge stick while another player activates the music box. The player holding the music box should refill their sanity to a comfortable level to avoid a 0% sanity-triggered hunt.",
+			"",
+			"●Breaking the Ouija Board can be useful for completing several hunt-related objectives or earning photo rewards by taking a picture of the ghost.",
+			"",
+			"●You can quickly decrease a player's sanity by using the Ouija Board repeatedly, even while it's in the middle of answering another question.",
+			"",
+			"●You can repeatedly ask low-cost questions with the Ouija Board in order to create numerous interactions; with an EMF Reader nearby, EMF level 5 reading may be quickly attained, as each question has a 1/4 chance to give off the evidence.",
+			"",
+			"●When using voice chat to ask questions, wait at least a few seconds for the board to respond before asking again, to avoid breaking the board when asking high sanity-deducting questions.",
+			"",
+			"●Using a Tier 3 crucifix in range of the Summoning Circle will prevent the cursed hunt triggered after summoning the ghost, virtually removing the risk of the Circle.",
+			"",
+			"●To prevent a hunt starting before the ghost can be summoned, use incense or place crucifixes near the ghost just before lighting the circle.",
+			"",
+			"●Where needed, most Optional Objectives can be completed directly or indirectly using the Summoning Circle.",
+			"  ●As such, it is best saved for after the ghost has been identified to quickly complete them.",
+			"",
+			"●Taking a photo of the centre of the circle will suffice, instead of attempting to have the entire circle in the photo.",
+			"",
+			"●The player should not draw a card during a hunt, since all cards drawn will be The Fool.",
+			"",
+			"●Players should take a photo of the cards before using them, as once all of the cards are used, the deck will disappear and no photo can be taken.",
+			"",
+			"●Though tarot cards cannot be drawn outside of the investigation area, this can currently be bypassed by drawing a card and leaving while the animation is still ongoing. The card will still take effect.",
+			"  ●If, while using this method, no players are inside, drawing The Devil will do nothing, and drawing Death will not trigger a hunt but will still extend the duration of subsequent hunts.",
+			"",
+			"●Trying to take a ghost photo after drawing The Devil can sometimes be tricky, as the card's burning animation needs to be completed before the player can drop the deck. If the triggered event is a singing ghost event, taking the photo will be easier, as this type of event usually lasts longer than the others.",
+			"  ●When playing in multiplayer, good coordination is useful if players want to take a ghost photo.",
+			"",
+			"●The voodoo doll is best saved for after the favourite room has been found. Use it for the ghost to interact with evidence sources rather than waiting extended periods for the ghost to do it on its own.",
+			"",
+			"●When using the voodoo doll with no sanity, all pressed remaining pins may cause multiple objects to be thrown at the same time. Be mindful of this to not confuse the ghost with a Poltergeist."
 		]
 	},
 	{
@@ -50,45 +94,186 @@
 		]
 	},
 	{
-		"Title":"Music Box",
-		"Text":[
-			""
-		]
-	},
-	{
-		"Title":"Ouija Board",
-		"Text":[
-			""
-		]
-	},
-	{
-		"Title":"Voodoo Doll",
-		"Text":[
-			""
-		]
-	},
-	{
 		"Title":"Haunted Mirror",
 		"Text":[
-			""
-		]
-	},
-	{
-		"Title":"Summoning Circle",
-		"Text":[
-			""
+			"The haunted mirror is a cursed possession that can be used to locate the favourite room.",
+			"",
+			"The mirror can be toggled while inside the investigation area. It will be automatically deactivated when brought outside.",
+			"",
+			"When activated, the haunted mirror will show a view of a part of the favourite room as a sweeping panorama, allowing players to locate the room by cross-reference. This view is a live feed of the room, so any lights turned on, items moved, and equipment or players present in the room will be visible. The only exception is the player's own model.",
+			"The mirror also gives a faint glow to see into the favourite room, which all players, including the user, can see, even outside of the mirror. This can help confirm rooms, as well as help other players know where the favourite room is.",
+			"",
+			"Each usage of the haunted mirror drains sanity at a rate of 7.5%/s, or 20% per use, whichever is higher. This means that using the mirror for less than ~2.67 seconds will still drain at least 20% sanity. This includes the animation of raising, but not lowering, the mirror.",
+			"",
+			"The mirror will crack visually and audibly, triggering a cursed hunt if:",
+			"●The user's sanity reaches 0% while looking into the mirror",
+			"●A player activates the mirror while below 20% sanity",
+			"",
+			"Once broken, the mirror will lower and cannot be used again."
 		]
 	},
 	{
 		"Title":"Monkey Paw",
 		"Text":[
-			""
+			"The Monkey Paw is a cursed possession that can be used to grant the player wishes.",
+			"",
+			"The Monkey Paw grants up to a certain number of wishes depending on the difficulty reward multiplier:",
+			"●0x – 1.99x: 5 wishes",
+			"●2x – 2.99x: 4 wishes",
+			"●3x or higher: 3 wishes",
+			"",
+			"The Monkey Paw can only be used within the investigation area, and players can choose to either use voice chat or a text-based UI to make wishes.",
+			"●If using voice chat, the Monkey Paw will grant any recognized wish made by the player.",
+			"●If using the text-based UI, the UI will appear upon pressing the Primary Use key. Players can then click to select one of 3 categories, then select a category-specific wish, or exit the UI by pressing the Primary Use key again.",
+			"",
+			"Every wish will come with a negative side effect, with the severity depending on the wish.",
+			"",
+			"If the Monkey Paw recognizes a valid phrase, regardless if it's a valid wish or not, or when entering/exiting the investigation area, its fingers will twitch. When a wish is being granted, one of its fingers will bend. When all fingers are bent, the Monkey Paw cannot be used anymore.",
+			"",
+			"Most wishes can be found on tags scattered in Sunny Meadows. Picking a tag up (except for weather and anything wishes) will record the wish in the journal. There is no need to find the wishes to use the Monkey Paw. Each wish can only be used once per contract."
+		]
+	},
+	{
+		"Title":"Music Box",
+		"Text":[
+			"The music box is a cursed possession that can be used to pinpoint the location of the ghost, though one is at considerable risk if one is careless with it.",
+			"",
+			"When picked up, the music box will open (this does not mean it has been activated). The music box can then be activated using the Primary Use key. Doing so will end the setup phase early if it is ongoing. The music box cannot be activated during a hunt, and can only be used once.",
+			"Once activated, if the ghost is within 20 metres of the music box, it will sing along, broadcasting its current location while remaining invisible.",
+			"If the music box is within 5 metres of the ghost, it will trigger a ghost event where the ghost manifests and begins to walk towards the box. The music box can be handheld or placed on the floor, the latter being the only safe way to discard the box without triggering a cursed hunt before the ghost event. In all cases, the box will close once it stops playing.",
+			"",
+			"While using the music box, a cursed hunt will be initiated if one of the following occurs:",
+			"●The ghost is within a short distance of the player holding the box",
+			"●The ghost walks during the box-triggered ghost event for more than 5 seconds",
+			"●The box is thrown while the tune is playing",
+			"●The player reaches or is already at 0% sanity",
+			"",
+			"A standard hunt will occur instead if:",
+			"●The ghost initiates a hunt on its own due to meeting normal hunt conditions rather than the box itself, causing the hunt",
+			"",
+			"By avoiding all of the above, it is possible to use the music box without causing any hunt:",
+			"●Ensuring that no one is inside the investigation area when the above occurs",
+			"●When the music ends without the ghost ever being near enough, the music box will automatically close",
+			"●If the player brings the music box near the ghost only just before the music stops playing, the ghost will simply disappear when the music ends.",
+			"",
+			"Being within ~2.5 metres of an actively functioning music box drains the player's sanity at a rate of 2.5%/s, totaling approximately 75% if the entire song is listened to. This applies to all players within the range, regardless of who activated the music box.",
+			"",
+			"As long as the box-triggered ghost event has not occurred, an active music box will not prevent regular ghost activity, which means that the ghost can continue to roam, interact with objects, use its abilities, or even perform regular ghost events and hunts. While the ghost will not actively walk towards the music box if it is out of range, it can happen to roam close enough to trigger the ghost event.",
+			"",
+			"If the music box is brought outside, the box will close. If the music is also playing, the sanity drain will pause, but the music will technically continue. It will reopen and function normally once the music box is brought inside again."
+		]
+	},
+	{
+		"Title":"Ouija Board",
+		"Text":[
+			"The Ouija Board is a cursed possession. It can be used to communicate with the ghost at the cost of sanity.",
+			"",
+			"The Ouija Board can be activated by interacting with it if the player is not holding it, or toggling it directly while holding the board. The planchette will drop down onto the board, signifying that the board has been activated.",
+			"",
+			"Players can choose to either use voice chat or a text-based UI to ask questions.",
+			"●If using voice chat, once activated, the Ouija Board will respond to voice input within 5 metres of it.",
+			"●If using the text-based UI, the UI will appear upon activation. Players can then click to select one of 3 categories, then select a category-specific question, or say goodbye. The player cannot exit the UI without saying goodbye or the board breaking, but the board can be thrown out while holding it.",
+			"",
+			"The player asking the question must be within the investigation area to ask questions, but does not have to be in the ghost room (nor the ghost's current room).",
+			"",
+			"If the question is recognised, the planchette will move to answer the question, and an EMF Level 2 reading will be generated around the Ouija Board. If the ghost has EMF Level 5 as evidence, there is a 25% chance for this to instead be the reading per question asked.",
+			"",
+			"Whether the ghost is \"shy\" or not does not affect its ability to respond via the Ouija Board. If the Ouija Board is asked a question via voice but nothing happens, then either the board is not activated or the phrase was not recognised. There is a cooldown of ~2.5 seconds for clicking via text-based UI, while there is no cooldown time for voice chat other than any voice recognition limitations.",
+			"",
+			"To deactivate the Ouija Board, any nearby player must say \"Goodbye\", which will make the planchette disappear. The Ouija Board can then be left alone safely. The Ouija Board will also deactivate automatically if the player holds the board and exits the investigation area.",
+			"",
+			"The Ouija Board will break if any of the following occurs:",
+			"●There is no player within 5 metres of a still-active board",
+			"●The player currently asking questions has less sanity than required to \"pay\" for the question",
+			"●The phrase \"hide and seek\" (or similar) is said",
+			"",
+			"The board will burn and break itself up, initiating a cursed hunt if any player is inside the building."
+		]
+	},
+	{
+		"Title":"Summoning Circle",
+		"Text":[
+			"The summoning circle is a cursed possession that is used to summon the ghost. This can be used to get a ghost photo, as well as facilitate the completion of several Objectives.",
+			"",
+			"The summoning circle can be used by lighting all five red candles by aiming at them and by pressing the Secondary Use key with a lit igniter or a lit firelight. Each lit candle deducts 16% sanity from nearby players.",
+			"",
+			"Summoning circle candles can be blown out by the ghost, in the same way as regular firelights. However, they cannot self-extinguish except when lit while the player has less than 16% sanity. Relighting an extinguished candle will drain 16% sanity again for nearby players.",
+			"",
+			"Once all five candles are lit, the ghost is summoned and fully materialized, except a Shade, which has a chance of appearing as a transparent shadow. The summoned ghost stays motionless for 5 seconds, unable to kill players. This stationary period is considered a ghost event. However, the front door will lock immediately after lighting the last candle. After this event, the lights in the summoning circle's room will turn off and the ghost will immediately initiate a cursed hunt on the spot, without an additional 1-second grace period. Once the summoning circle is activated, it cannot be used again.",
+			"",
+			"In the following cases, there will be no \"ghost event\" period; the cursed hunt will immediately begin, potentially killing players on the spot:",
+			"●If the player has 16% sanity or less when lighting the last candle",
+			"   ●There will be a 1-second grace period before the hunt starts.",
+			"   ●If the Friendly Ghost difficulty option is turned on, the candles will extinguish in succession instead of hunting.",
+			"●If the last candle is lit while a hunt is ongoing (this will not restart the current hunt's timer)"
 		]
 	},
 	{
 		"Title":"Tarot Cards",
 		"Text":[
-			""
+			"Tarot cards are a cursed possession that can trigger various random effects on both the player and nearby ghosts.",
+			"",
+			"Tarot cards can be picked up and one card can be drawn at a time. Tarot cards can only be drawn while inside the investigation area.",
+			"",
+			"Each Tarot cards deck contains 10 randomly generated cards. There are 10 possible card types the player can draw, each having a unique effect on either the player or the ghost. After being used, each card will burn up and vanish in a uniquely-colored flame. Each card type has a different, independent chance of being drawn, so some card types can be drawn multiple times or not at all in a single deck.",
+			"",
+			"Once all ten cards have been used, no more will be given to the player for that contract. When the deck is used up, all future hunts will also be extended by 20 seconds, even if no Death card was drawn prior.",
+			"",
+			"Card List",
+			"The Tower",
+			"  ●Effect: Doubles all ghost activity for 20 seconds.",
+			"  ●Burn Color: Blue",
+			"  ●Draw Chance: 20%",
+			"",
+			"The Fool",
+			"  ●Effect: Randomly selects another card to appear as, before turning into The Fool as it burns. No effect is applied when drawing this card.",
+			"  ●Burn Color: Light Purple",
+			"  ●Draw Chance: 17%, 100% during hunts",
+			"",
+			"The Devil",
+			"  ●Effect: Triggers a Ghost Event towards the nearest player to the ghost.",
+			"  ●Burn Color: Blue",
+			"  ●Draw Chance: 20%",
+			"",
+			"Death",
+			"  ●Effect: Triggers a cursed hunt.",
+			"  ●Burn Color: Purple",
+			"  ●Draw Chance: 10%",
+			"",
+			"The Hermit",
+			"  ●Effect: Teleports the ghost back to its ghost room and traps it there for 1 minute. This does not affect hunts and ghost events.",
+			"  ●Burn Color: Cyan",
+			"  ●Draw Chance: 10%",
+			"",
+			"The Sun",
+			"  ●Effect: Fully restores the individual player's sanity to 100%.",
+			"  ●Burn Color: Yellow",
+			"  ●Draw Chance: 5%",
+			"",
+			"The Moon",
+			"  ●Effect: Instantly drops the individual player's sanity to 0%.",
+			"  ●Burn Color: White",
+			"  ●Draw Chance: 5%",
+			"",
+			"The High Priestess",
+			"  ●Effect: Revives a randomly chosen dead player at their corpse. If no one is currently dead, it will revive the next player who dies. Multiple cards do not stack.",
+			"  ●Burn Color: Light Yellow",
+			"  ●Draw Chance: 2%",
+			"",
+			"The Hanged Man",
+			"  ●Effect: Instantly kills the player. It is impossible to draw the real card if the 'Friendly Ghost' is on.",
+			"  ●Burn Color: N/A",
+			"  ●Draw Chance: 1%"
+		]
+	},
+	{
+		"Title":"Voodoo Doll",
+		"Text":[
+			"The voodoo doll is a cursed possession used to force the ghost to perform interactions.",
+			"",
+			"Interacting with the voodoo doll will cause one of the 10 pins stuck in the doll to be pushed into it at random. This will cause the ghost to perform an interaction, and will drop the user's sanity by 5%. These forced interactions can include EMF Level 5 and Ultraviolet sources, but not the Ghost Writing Book nor the D.O.T.S. Projector.",
+			"",
+			"If the heart pin is pressed down, the user's sanity will drain by 10%, and the ghost will initiate a cursed hunt. If the user's sanity is at 0%, all remaining pins will be pushed in and a cursed hunt will also occur."
 		]
 	},
 	{
