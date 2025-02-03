@@ -243,11 +243,10 @@ namespace PhasmoGadget.PhasmoGadget {
             this.lblBackgroundColor.ForeColor=Color.FromArgb(red1,green1,blue1);
             this.lblGhInfoType.ForeColor=Color.FromArgb(red1,green1,blue1);
             this.lblGhInfoTypeData.ForeColor=Color.FromArgb(red1,green1,blue1);
-            this.lblGhInfoBaseHunt.ForeColor=Color.FromArgb(red1,green1,blue1);
-            this.lblGhInfoBaseHuntData.ForeColor=Color.FromArgb(red1,green1,blue1);
-            this.lblGhInfoSpecialHuntData.ForeColor=Color.FromArgb(red1,green1,blue1);
-            this.lblGhInfoSHCondition.ForeColor=Color.FromArgb(red1,green1,blue1);
-            this.lblGhInfoSHConditionData.ForeColor=Color.FromArgb(red1,green1,blue1);
+            this.lblGhInfoHunt.ForeColor=Color.FromArgb(red1,green1,blue1);
+            this.lblGhInfoHuntData.ForeColor=Color.FromArgb(red1,green1,blue1);
+            this.lblGhInfoHuntAbilities.ForeColor=Color.FromArgb(red1,green1,blue1);
+            this.lblGhInfoHuntAbilitiesData.ForeColor=Color.FromArgb(red1,green1,blue1);
             this.lblGhInfoCooldown.ForeColor=Color.FromArgb(red1,green1,blue1);
             this.lblGhInfoCooldownData.ForeColor=Color.FromArgb(red1,green1,blue1);
             
@@ -469,11 +468,10 @@ namespace PhasmoGadget.PhasmoGadget {
                     this.lblHint.Location=new Point(11, 241);
                     this.lblGhInfoType.Location=new Point(14,330);
                     this.lblGhInfoTypeData.Location=new Point(145,330);
-                    this.lblGhInfoBaseHunt.Location=new Point(14,364);
-                    this.lblGhInfoBaseHuntData.Location=new Point(145,364);
-                    this.lblGhInfoSpecialHuntData.Location=new Point(255,364);
-                    this.lblGhInfoSHCondition.Location=new Point(14,398);
-                    this.lblGhInfoSHConditionData.Location=new Point(145,398);
+                    this.lblGhInfoHunt.Location=new Point(14,364);
+                    this.lblGhInfoHuntData.Location=new Point(145,364);
+                    this.lblGhInfoHuntAbilities.Location=new Point(14,398);
+                    this.lblGhInfoHuntAbilitiesData.Location=new Point(145,398);
                     this.lblGhInfoCooldown.Location=new Point(14,434);
                     this.lblGhInfoCooldownData.Location=new Point(145,434);
 
@@ -519,11 +517,10 @@ namespace PhasmoGadget.PhasmoGadget {
                     this.lblHint.Location=new Point(13, 278);
                     this.lblGhInfoType.Location=new Point(16,380);
                     this.lblGhInfoTypeData.Location=new Point(167,380);
-                    this.lblGhInfoBaseHunt.Location=new Point(16,419);
-                    this.lblGhInfoBaseHuntData.Location=new Point(167,419);
-                    this.lblGhInfoSpecialHuntData.Location=new Point(294,419);
-                    this.lblGhInfoSHCondition.Location=new Point(16,458);
-                    this.lblGhInfoSHConditionData.Location=new Point(167,458);
+                    this.lblGhInfoHunt.Location=new Point(16,419);
+                    this.lblGhInfoHuntData.Location=new Point(167,419);
+                    this.lblGhInfoHuntAbilities.Location=new Point(16,458);
+                    this.lblGhInfoHuntAbilitiesData.Location=new Point(167,458);
                     this.lblGhInfoCooldown.Location=new Point(16,499);
                     this.lblGhInfoCooldownData.Location=new Point(167,499);
                     
@@ -569,11 +566,10 @@ namespace PhasmoGadget.PhasmoGadget {
                     this.lblHint.Location=new Point(14, 301);
                     this.lblGhInfoType.Location=new Point(18,413);
                     this.lblGhInfoTypeData.Location=new Point(181,413);
-                    this.lblGhInfoBaseHunt.Location=new Point(18,455);
-                    this.lblGhInfoBaseHuntData.Location=new Point(181,455);
-                    this.lblGhInfoSpecialHuntData.Location=new Point(319,455);
-                    this.lblGhInfoSHCondition.Location=new Point(18,498);
-                    this.lblGhInfoSHConditionData.Location=new Point(181,498);
+                    this.lblGhInfoHunt.Location=new Point(18,455);
+                    this.lblGhInfoHuntData.Location=new Point(181,455);
+                    this.lblGhInfoHuntAbilities.Location=new Point(18,498);
+                    this.lblGhInfoHuntAbilitiesData.Location=new Point(181,498);
                     this.lblGhInfoCooldown.Location=new Point(18,543);
                     this.lblGhInfoCooldownData.Location=new Point(181,543);
                     
@@ -619,11 +615,10 @@ namespace PhasmoGadget.PhasmoGadget {
                     this.lblHint.Location=new Point(15, 322);
                     this.lblGhInfoType.Location=new Point(19,440);
                     this.lblGhInfoTypeData.Location=new Point(193,440);
-                    this.lblGhInfoBaseHunt.Location=new Point(19,486);
-                    this.lblGhInfoBaseHuntData.Location=new Point(193,486);
-                    this.lblGhInfoSpecialHuntData.Location=new Point(340,486);
-                    this.lblGhInfoSHCondition.Location=new Point(19,531);
-                    this.lblGhInfoSHConditionData.Location=new Point(193,531);
+                    this.lblGhInfoHunt.Location=new Point(19,486);
+                    this.lblGhInfoHuntData.Location=new Point(193,486);
+                    this.lblGhInfoHuntAbilities.Location=new Point(19,531);
+                    this.lblGhInfoHuntAbilitiesData.Location=new Point(193,531);
                     this.lblGhInfoCooldown.Location=new Point(19,579);
                     this.lblGhInfoCooldownData.Location=new Point(193,579);
                     
@@ -1050,11 +1045,10 @@ namespace PhasmoGadget.PhasmoGadget {
                 this.lblHint.Font=new Font(FontFamily.GenericSansSerif,9);
                 this.lblGhInfoType.Font=new Font(FontFamily.GenericSansSerif,10);
                 this.lblGhInfoTypeData.Font=new Font(FontFamily.GenericSansSerif,10);
-                this.lblGhInfoBaseHunt.Font=new Font(FontFamily.GenericSansSerif,10);
-                this.lblGhInfoBaseHuntData.Font=new Font(FontFamily.GenericSansSerif,10);
-                this.lblGhInfoSpecialHuntData.Font=new Font(FontFamily.GenericSansSerif,10);
-                this.lblGhInfoSHCondition.Font=new Font(FontFamily.GenericSansSerif,10);
-                this.lblGhInfoSHConditionData.Font=new Font(FontFamily.GenericSansSerif,10);
+                this.lblGhInfoHunt.Font=new Font(FontFamily.GenericSansSerif,10);
+                this.lblGhInfoHuntData.Font=new Font(FontFamily.GenericSansSerif,10);
+                this.lblGhInfoHuntAbilities.Font=new Font(FontFamily.GenericSansSerif,10);
+                this.lblGhInfoHuntAbilitiesData.Font=new Font(FontFamily.GenericSansSerif,10);
                 this.lblGhInfoCooldown.Font=new Font(FontFamily.GenericSansSerif,10);
                 this.lblGhInfoCooldownData.Font=new Font(FontFamily.GenericSansSerif,10);
                 
@@ -1078,11 +1072,10 @@ namespace PhasmoGadget.PhasmoGadget {
                 this.lblHint.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(10));
                 this.lblGhInfoType.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
                 this.lblGhInfoTypeData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
-                this.lblGhInfoBaseHunt.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
-                this.lblGhInfoBaseHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
-                this.lblGhInfoSpecialHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
-                this.lblGhInfoSHCondition.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
-                this.lblGhInfoSHConditionData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
+                this.lblGhInfoHunt.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
+                this.lblGhInfoHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
+                this.lblGhInfoHuntAbilities.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
+                this.lblGhInfoHuntAbilitiesData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
                 this.lblGhInfoCooldown.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
                 this.lblGhInfoCooldownData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
                 
@@ -1106,11 +1099,10 @@ namespace PhasmoGadget.PhasmoGadget {
                 this.lblHint.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(12));
                 this.lblGhInfoType.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 this.lblGhInfoTypeData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoBaseHunt.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoBaseHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoSpecialHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoSHCondition.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoSHConditionData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHunt.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHuntAbilities.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHuntAbilitiesData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 this.lblGhInfoCooldown.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 this.lblGhInfoCooldownData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 
@@ -1134,11 +1126,10 @@ namespace PhasmoGadget.PhasmoGadget {
                 this.lblHint.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(14));
                 this.lblGhInfoType.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 this.lblGhInfoTypeData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoBaseHunt.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoBaseHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoSpecialHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoSHCondition.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
-                this.lblGhInfoSHConditionData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHunt.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHuntData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHuntAbilities.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
+                this.lblGhInfoHuntAbilitiesData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 this.lblGhInfoCooldown.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 this.lblGhInfoCooldownData.Font=new Font(FontFamily.GenericSansSerif,Convert.ToSingle(13));
                 
@@ -1505,13 +1496,12 @@ namespace PhasmoGadget.PhasmoGadget {
                         Type_Title=" ",
                         Type=" ",
                         Hunt_Title=" ",
-                        Hunt_Base=" ",
-                        Hunt_Special=" ",
-                        Hunt_Condition_Title=" ",
-                        Hunt_Condition=" ",
+                        Hunt=" ",
+                        Hunt_Abilities_Title=" ",
+                        Hunt_Abilities=" ",
                         Smudging_Title=" ",
                         Smudging=" ",
-                        Hints=" "
+                        Hints=new List<string> {""}
                     });
                 if(this.TimerList.Count==0)
                     this.TimerList.Add(new Helper_Timer() {
@@ -1795,11 +1785,10 @@ namespace PhasmoGadget.PhasmoGadget {
             this.lblDif.Show();
             this.lblGhInfoType.Show();
             this.lblGhInfoTypeData.Show();
-            this.lblGhInfoBaseHunt.Show();
-            this.lblGhInfoBaseHuntData.Show();
-            this.lblGhInfoSpecialHuntData.Show();
-            this.lblGhInfoSHCondition.Show();
-            this.lblGhInfoSHConditionData.Show();
+            this.lblGhInfoHunt.Show();
+            this.lblGhInfoHuntData.Show();
+            this.lblGhInfoHuntAbilities.Show();
+            this.lblGhInfoHuntAbilitiesData.Show();
             this.lblGhInfoCooldown.Show();
             this.lblGhInfoCooldownData.Show();
 
@@ -1843,11 +1832,10 @@ namespace PhasmoGadget.PhasmoGadget {
             this.lblDif.Hide();
             this.lblGhInfoType.Hide();
             this.lblGhInfoTypeData.Hide();
-            this.lblGhInfoBaseHunt.Hide();
-            this.lblGhInfoBaseHuntData.Hide();
-            this.lblGhInfoSpecialHuntData.Hide();
-            this.lblGhInfoSHCondition.Hide();
-            this.lblGhInfoSHConditionData.Hide();
+            this.lblGhInfoHunt.Hide();
+            this.lblGhInfoHuntData.Hide();
+            this.lblGhInfoHuntAbilities.Hide();
+            this.lblGhInfoHuntAbilitiesData.Hide();
             this.lblGhInfoCooldown.Hide();
             this.lblGhInfoCooldownData.Hide();
 
@@ -2354,14 +2342,13 @@ namespace PhasmoGadget.PhasmoGadget {
                 if(this.cbGhosts.SelectedItem.ToString()==ghost.Ghostname) {
                     this.lblGhInfoType.Text=ghost.Type_Title;
                     this.lblGhInfoTypeData.Text=ghost.Type;
-                    this.lblGhInfoBaseHunt.Text=ghost.Hunt_Title;
-                    this.lblGhInfoBaseHuntData.Text=ghost.Hunt_Base;
-                    this.lblGhInfoSpecialHuntData.Text=ghost.Hunt_Special;
-                    this.lblGhInfoSHCondition.Text=ghost.Hunt_Condition_Title;
-                    this.lblGhInfoSHConditionData.Text=ghost.Hunt_Condition;
+                    this.lblGhInfoHunt.Text=ghost.Hunt_Title;
+                    this.lblGhInfoHuntData.Text=ghost.Hunt;
+                    this.lblGhInfoHuntAbilities.Text=ghost.Hunt_Abilities_Title;
+                    this.lblGhInfoHuntAbilitiesData.Text=ghost.Hunt_Abilities;
                     this.lblGhInfoCooldown.Text=ghost.Smudging_Title;
                     this.lblGhInfoCooldownData.Text=ghost.Smudging;
-                    this.rtbGhInfoHintsData.Text=ghost.Hints;
+                    this.rtbGhInfoHintsData.Text=String.Join("\n",ghost.Hints);
 
                     this.picGhostEvi1.BackgroundImage=(Image)this.getPic(ghost.Evidence1,0);
                     this.picGhostEvi1.Tag=(object)ghost.Evidence1;
@@ -3067,11 +3054,10 @@ namespace PhasmoGadget.PhasmoGadget {
             this.lblBackgroundColor=new Label();
             this.lblGhInfoType=new Label();
             this.lblGhInfoTypeData=new Label();
-            this.lblGhInfoBaseHunt=new Label();
-            this.lblGhInfoBaseHuntData=new Label();
-            this.lblGhInfoSpecialHuntData=new Label();
-            this.lblGhInfoSHCondition=new Label();
-            this.lblGhInfoSHConditionData=new Label();
+            this.lblGhInfoHunt=new Label();
+            this.lblGhInfoHuntData=new Label();
+            this.lblGhInfoHuntAbilities=new Label();
+            this.lblGhInfoHuntAbilitiesData=new Label();
             this.lblGhInfoCooldown=new Label();
             this.lblGhInfoCooldownData=new Label();
 
@@ -3589,91 +3575,76 @@ namespace PhasmoGadget.PhasmoGadget {
             this.lblGhInfoType.BackColor=Color.Gray;
             this.lblGhInfoType.BorderStyle=BorderStyle.FixedSingle;
             this.lblGhInfoType.ForeColor=Color.White;
-            this.lblGhInfoType.ImageAlign=ContentAlignment.MiddleLeft;
             this.lblGhInfoType.MaximumSize=new Size(355,36);
             this.lblGhInfoType.Name="lblGhInfoType";
             this.lblGhInfoType.Size=new Size(132,36);
             this.lblGhInfoType.TabIndex=318;
+            this.lblGhInfoType.TextAlign=ContentAlignment.MiddleCenter;
             this.lblGhInfoType.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
             
             this.lblGhInfoTypeData.BackColor=Color.Gray;
             this.lblGhInfoTypeData.BorderStyle=BorderStyle.FixedSingle;
             this.lblGhInfoTypeData.ForeColor=Color.White;
-            this.lblGhInfoTypeData.ImageAlign=ContentAlignment.MiddleLeft;
             this.lblGhInfoTypeData.MaximumSize=new Size(355,36);
             this.lblGhInfoTypeData.Name="lblGhInfoTypeData";
             this.lblGhInfoTypeData.Size=new Size(221,36);
             this.lblGhInfoTypeData.TabIndex=319;
-            this.lblGhInfoTypeData.TextAlign=ContentAlignment.TopCenter;
+            this.lblGhInfoTypeData.TextAlign=ContentAlignment.MiddleCenter;
             this.lblGhInfoTypeData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
 
-            this.lblGhInfoBaseHunt.BackColor=Color.Gray;
-            this.lblGhInfoBaseHunt.BorderStyle=BorderStyle.FixedSingle;
-            this.lblGhInfoBaseHunt.ForeColor=Color.White;
-            this.lblGhInfoBaseHunt.ImageAlign=ContentAlignment.MiddleLeft;
-            this.lblGhInfoBaseHunt.MaximumSize=new Size(355,36);
-            this.lblGhInfoBaseHunt.Name="lblGhInfoBaseHunt";
-            this.lblGhInfoBaseHunt.Size=new Size(132,36);
-            this.lblGhInfoBaseHunt.TabIndex=320;
-            this.lblGhInfoBaseHunt.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
+            this.lblGhInfoHunt.BackColor=Color.Gray;
+            this.lblGhInfoHunt.BorderStyle=BorderStyle.FixedSingle;
+            this.lblGhInfoHunt.ForeColor=Color.White;
+            this.lblGhInfoHunt.MaximumSize=new Size(355,36);
+            this.lblGhInfoHunt.Name="lblGhInfoHunt";
+            this.lblGhInfoHunt.Size=new Size(132,36);
+            this.lblGhInfoHunt.TabIndex=320;
+            this.lblGhInfoHunt.TextAlign=ContentAlignment.MiddleCenter;
+            this.lblGhInfoHunt.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
 
-            this.lblGhInfoBaseHuntData.BackColor=Color.Gray;
-            this.lblGhInfoBaseHuntData.BorderStyle=BorderStyle.FixedSingle;
-            this.lblGhInfoBaseHuntData.ForeColor=Color.White;
-            this.lblGhInfoBaseHuntData.ImageAlign=ContentAlignment.MiddleLeft;
-            this.lblGhInfoBaseHuntData.MaximumSize=new Size(355,36);
-            this.lblGhInfoBaseHuntData.Name="lblGhInfoBaseHuntData";
-            this.lblGhInfoBaseHuntData.Size=new Size(112,36);
-            this.lblGhInfoBaseHuntData.TabIndex=321;
-            this.lblGhInfoBaseHuntData.TextAlign=ContentAlignment.MiddleCenter;
-            this.lblGhInfoBaseHuntData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
+            this.lblGhInfoHuntData.BackColor=Color.Gray;
+            this.lblGhInfoHuntData.BorderStyle=BorderStyle.FixedSingle;
+            this.lblGhInfoHuntData.ForeColor=Color.White;
+            this.lblGhInfoHuntData.MaximumSize=new Size(355,36);
+            this.lblGhInfoHuntData.Name="lblGhInfoHuntData";
+            this.lblGhInfoHuntData.Size=new Size(221,36);
+            this.lblGhInfoHuntData.TabIndex=321;
+            this.lblGhInfoHuntData.TextAlign=ContentAlignment.MiddleCenter;
+            this.lblGhInfoHuntData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
 
-            this.lblGhInfoSpecialHuntData.BackColor=Color.Gray;
-            this.lblGhInfoSpecialHuntData.BorderStyle=BorderStyle.FixedSingle;
-            this.lblGhInfoSpecialHuntData.ForeColor=Color.White;
-            this.lblGhInfoSpecialHuntData.ImageAlign=ContentAlignment.MiddleLeft;
-            this.lblGhInfoSpecialHuntData.MaximumSize=new Size(355,36);
-            this.lblGhInfoSpecialHuntData.Name="lblGhInfoSpecialHuntData";
-            this.lblGhInfoSpecialHuntData.Size=new Size(111,36);
-            this.lblGhInfoSpecialHuntData.TabIndex=322;
-            this.lblGhInfoSpecialHuntData.TextAlign=ContentAlignment.MiddleCenter;
-            this.lblGhInfoSpecialHuntData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
+            this.lblGhInfoHuntAbilities.BackColor=Color.Gray;
+            this.lblGhInfoHuntAbilities.BorderStyle=BorderStyle.FixedSingle;
+            this.lblGhInfoHuntAbilities.ForeColor=Color.White;
+            this.lblGhInfoHuntAbilities.MaximumSize=new Size(355,37);
+            this.lblGhInfoHuntAbilities.Name="lblGhInfoHuntAbilities";
+            this.lblGhInfoHuntAbilities.Size=new Size(132,37);
+            this.lblGhInfoHuntAbilities.TabIndex=323;
+            this.lblGhInfoHuntAbilities.TextAlign=ContentAlignment.MiddleCenter;
+            this.lblGhInfoHuntAbilities.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
 
-            this.lblGhInfoSHCondition.BackColor=Color.Gray;
-            this.lblGhInfoSHCondition.BorderStyle=BorderStyle.FixedSingle;
-            this.lblGhInfoSHCondition.ForeColor=Color.White;
-            this.lblGhInfoSHCondition.ImageAlign=ContentAlignment.MiddleLeft;
-            this.lblGhInfoSHCondition.MaximumSize=new Size(355,37);
-            this.lblGhInfoSHCondition.Name="lblGhInfoSHCondition";
-            this.lblGhInfoSHCondition.Size=new Size(132,37);
-            this.lblGhInfoSHCondition.TabIndex=323;
-            this.lblGhInfoSHCondition.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
-
-            this.lblGhInfoSHConditionData.BackColor=Color.Gray;
-            this.lblGhInfoSHConditionData.BorderStyle=BorderStyle.FixedSingle;
-            this.lblGhInfoSHConditionData.ForeColor=Color.White;
-            this.lblGhInfoSHConditionData.ImageAlign=ContentAlignment.MiddleLeft;
-            this.lblGhInfoSHConditionData.MaximumSize=new Size(355,37);
-            this.lblGhInfoSHConditionData.Name="lblGhInfoSHConditionData";
-            this.lblGhInfoSHConditionData.Size=new Size(221,37);
-            this.lblGhInfoSHConditionData.TabIndex=324;
-            this.lblGhInfoSHConditionData.TextAlign=ContentAlignment.MiddleCenter;
-            this.lblGhInfoSHConditionData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
+            this.lblGhInfoHuntAbilitiesData.BackColor=Color.Gray;
+            this.lblGhInfoHuntAbilitiesData.BorderStyle=BorderStyle.FixedSingle;
+            this.lblGhInfoHuntAbilitiesData.ForeColor=Color.White;
+            this.lblGhInfoHuntAbilitiesData.MaximumSize=new Size(355,37);
+            this.lblGhInfoHuntAbilitiesData.Name="lblGhInfoHuntAbilitiesData";
+            this.lblGhInfoHuntAbilitiesData.Size=new Size(221,37);
+            this.lblGhInfoHuntAbilitiesData.TabIndex=324;
+            this.lblGhInfoHuntAbilitiesData.TextAlign=ContentAlignment.MiddleCenter;
+            this.lblGhInfoHuntAbilitiesData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
 
             this.lblGhInfoCooldown.BackColor=Color.Gray;
             this.lblGhInfoCooldown.BorderStyle=BorderStyle.FixedSingle;
             this.lblGhInfoCooldown.ForeColor=Color.White;
-            this.lblGhInfoCooldown.ImageAlign=ContentAlignment.MiddleLeft;
             this.lblGhInfoCooldown.MaximumSize=new Size(355,20);
             this.lblGhInfoCooldown.Name="lblGhInfoCooldown";
             this.lblGhInfoCooldown.Size=new Size(132,20);
             this.lblGhInfoCooldown.TabIndex=325;
+            this.lblGhInfoCooldown.TextAlign=ContentAlignment.MiddleCenter;
             this.lblGhInfoCooldown.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
 
             this.lblGhInfoCooldownData.BackColor=Color.Gray;
             this.lblGhInfoCooldownData.BorderStyle=BorderStyle.FixedSingle;
             this.lblGhInfoCooldownData.ForeColor=Color.White;
-            this.lblGhInfoCooldownData.ImageAlign=ContentAlignment.MiddleLeft;
             this.lblGhInfoCooldownData.MaximumSize=new Size(355,20);
             this.lblGhInfoCooldownData.Name="lblGhInfoCooldownData";
             this.lblGhInfoCooldownData.Size=new Size(221,20);
@@ -4072,11 +4043,10 @@ namespace PhasmoGadget.PhasmoGadget {
             this.Controls.Add((Control)this.lblDif);
             this.Controls.Add((Control)this.lblGhInfoType);
             this.Controls.Add((Control)this.lblGhInfoTypeData);
-            this.Controls.Add((Control)this.lblGhInfoBaseHunt);
-            this.Controls.Add((Control)this.lblGhInfoBaseHuntData);
-            this.Controls.Add((Control)this.lblGhInfoSpecialHuntData);
-            this.Controls.Add((Control)this.lblGhInfoSHCondition);
-            this.Controls.Add((Control)this.lblGhInfoSHConditionData);
+            this.Controls.Add((Control)this.lblGhInfoHunt);
+            this.Controls.Add((Control)this.lblGhInfoHuntData);
+            this.Controls.Add((Control)this.lblGhInfoHuntAbilities);
+            this.Controls.Add((Control)this.lblGhInfoHuntAbilitiesData);
             this.Controls.Add((Control)this.lblGhInfoCooldown);
             this.Controls.Add((Control)this.lblGhInfoCooldownData);
             this.Controls.Add((Control)this.picLine);

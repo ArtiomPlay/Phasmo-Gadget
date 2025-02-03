@@ -177,11 +177,10 @@ namespace PhasmoGadget.PhasmoGadget {
         private Label lblBackgroundColor;
         private Label lblGhInfoType;
         private Label lblGhInfoTypeData;
-        private Label lblGhInfoBaseHunt;
-        private Label lblGhInfoBaseHuntData;
-        private Label lblGhInfoSpecialHuntData;
-        private Label lblGhInfoSHCondition;
-        private Label lblGhInfoSHConditionData;
+        private Label lblGhInfoHunt;
+        private Label lblGhInfoHuntData;
+        private Label lblGhInfoHuntAbilities;
+        private Label lblGhInfoHuntAbilitiesData;
         private Label lblGhInfoCooldown;
         private Label lblGhInfoCooldownData;
 
@@ -433,11 +432,10 @@ namespace PhasmoGadget.PhasmoGadget {
             this.lblBackgroundColor.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
             this.lblGhInfoType.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
             this.lblGhInfoTypeData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
-            this.lblGhInfoBaseHunt.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
-            this.lblGhInfoBaseHuntData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
-            this.lblGhInfoSpecialHuntData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
-            this.lblGhInfoSHCondition.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
-            this.lblGhInfoSHConditionData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
+            this.lblGhInfoHunt.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
+            this.lblGhInfoHuntData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
+            this.lblGhInfoHuntAbilities.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
+            this.lblGhInfoHuntAbilitiesData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
             this.lblGhInfoCooldown.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
             this.lblGhInfoCooldownData.BackColor=Color.FromArgb(0,(int)byte.MaxValue,(int)byte.MaxValue,(int)byte.MaxValue);
 
