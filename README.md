@@ -1,4 +1,4 @@
-# ![PhasmoGadget Logo](https://i.imgur.com/UuqEccp.png) Phasmo Gadget ![PhasmoGadget Ghost](https://i.imgur.com/77JG6Xw.png)
+# <img src="./Resources/$this.Icon.ico" alt="PhasmoGadget Logo"> Phasmo Gadget ![PhasmoGadget Ghost](https://i.imgur.com/77JG6Xw.png)
 
 <details>
 <summary>English</summary>

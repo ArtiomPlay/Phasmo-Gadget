@@ -320,7 +320,9 @@ namespace PhasmoGadget.PhasmoGadget {
                     if(this.var_toggleInfo==0)
                         this.Size=new Size(380,290);
                     if(this.var_toggleInfo==1)
-                        this.Size=(new Size(380,580));
+                        this.Size=(new Size(380,692));
+                        this.rtbGhInfoHintsData.Size=new Size(352,224);
+                        this.rtbInfo.Size=new Size(355,630);
                 }
                 if((int)Settings.Default["Size"]==2) {
                     if(this.var_toggleInfo==0){
@@ -329,7 +331,9 @@ namespace PhasmoGadget.PhasmoGadget {
                     }
                     if(this.var_toggleInfo==1){
                         this.Scale(new SizeF(1.15f,1.15f));
-                        this.Size=new Size(437,668);
+                        this.Size=new Size(437,780);
+                        this.rtbGhInfoHintsData.Size=new Size(405,244);
+                        this.rtbInfo.Size=new Size(405,710);
                     }
                 }
                 if((int)Settings.Default["Size"]==3) {
@@ -339,7 +343,9 @@ namespace PhasmoGadget.PhasmoGadget {
                     }
                     if(this.var_toggleInfo==1){
                         this.Scale(new SizeF(1.25f,1.25f));
-                        this.Size=new Size(475,726);
+                        this.Size=new Size(475,838);
+                        this.rtbGhInfoHintsData.Size=new Size(438,250);
+                        this.rtbInfo.Size=new Size(445,760);
                     }
                 }
                 if((int)Settings.Default["Size"]==4) {
@@ -349,7 +355,9 @@ namespace PhasmoGadget.PhasmoGadget {
                     }
                     if(this.var_toggleInfo==1){
                         this.Scale(new SizeF(1.33421052f,1.33421052f));
-                        this.Size=new Size(507,774);
+                        this.Size=new Size(507,838);
+                        this.rtbGhInfoHintsData.Size=new Size(467,220);
+                        this.rtbInfo.Size=new Size(475,760);
                     }
                 }
             }
@@ -405,25 +413,33 @@ namespace PhasmoGadget.PhasmoGadget {
                 if(this.var_toggleInfo==0)
                     this.Size=new Size(380,290);
                 if(this.var_toggleInfo==1)
-                    this.Size=new Size(380,580);
+                    this.Size=new Size(380,692);
+                    this.rtbGhInfoHintsData.Size=new Size(352,224);
+                    this.rtbInfo.Size=new Size(355,630);
             }
             if((int)Settings.Default["Size"]==2) {
                 if(this.var_toggleInfo==0)
                     this.Size=new Size(437,334);
                 if(this.var_toggleInfo==1)
-                    this.Size=new Size(437,668);
+                    this.Size=new Size(437,780);
+                    this.rtbGhInfoHintsData.Size=new Size(405,244);
+                    this.rtbInfo.Size=new Size(405,710);
             }
             if((int)Settings.Default["Size"]==3) {
                 if(this.var_toggleInfo==0)
                     this.Size=new Size(475,363);
                 if(this.var_toggleInfo==1)
-                    this.Size=new Size(475,726);
+                    this.Size=new Size(475,838);
+                    this.rtbGhInfoHintsData.Size=new Size(438,250);
+                    this.rtbInfo.Size=new Size(445,760);
             }
             if((int)Settings.Default["Size"]==4) {
                 if(this.var_toggleInfo==0)
                     this.Size=new Size(507,387);
                 if(this.var_toggleInfo==1)
-                    this.Size=new Size(507,774);
+                    this.Size=new Size(507,838);
+                    this.rtbGhInfoHintsData.Size=new Size(467,220);
+                    this.rtbInfo.Size=new Size(475,760);
             }
         }
         private void set_components() {
@@ -3772,7 +3788,6 @@ namespace PhasmoGadget.PhasmoGadget {
             this.rtbGhInfoHintsData.ReadOnly=true;
             this.rtbGhInfoHintsData.ScrollBars=RichTextBoxScrollBars.Vertical;
             this.rtbGhInfoHintsData.ShortcutsEnabled=false;
-            this.rtbGhInfoHintsData.Size=new Size(352,112);
             this.rtbGhInfoHintsData.TabIndex=502;
             this.rtbGhInfoHintsData.Text="";
             this.rtbGhInfoHintsData.MouseDown+=new MouseEventHandler(this.Main_MouseDown);
@@ -3785,7 +3800,6 @@ namespace PhasmoGadget.PhasmoGadget {
             this.rtbInfo.ReadOnly=true;
             this.rtbInfo.ScrollBars=RichTextBoxScrollBars.Vertical;
             this.rtbInfo.ShortcutsEnabled=false;
-            this.rtbInfo.Size=new Size(355,510);
             this.rtbInfo.TabIndex=503;
             this.rtbInfo.Text="";
             this.rtbInfo.MouseDown+=new MouseEventHandler(this.Main_MouseDown);

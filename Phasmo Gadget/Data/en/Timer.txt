@@ -1,21 +1,19 @@
 [
-
-{
-"Timer_Hunt":"Hunt",
-"Timer_Hunt_Cursed":"Hunt Cursed",
-"Timer_Hunt_Post":"Hunt Post",
-"Timer_Hunt_Post_Demon":"Hunt Post Demon",
-"Timer_Hunt_Smudge":"Smudging",
-"Timer_Smudge_Demon":"Smudging Demon",
-"Timer_Smudge_Spirit":"Smudging Spirit",
-"Timer_Start":"Start",
-"Dif_Amateur":"▼ Amateur",
-"Dif_Intermediate":"▼ Intermediate",
-"Dif_Nightmare":"▼ Nightmare",
-"Dif_Professional":"▼ Professional",
-"Small":"6 Tanglewood Drive, 10 Ridgeview Court, 13 Willow Street, 42 Edgefield Road, Bleasdale Farmhouse, Camp Woodwind, Grafton Farmhouse, Point Hope",
-"Medium":"Maple Lodge Campsite, Prison, Sunny Meadows (Restricted)",
-"Big":"Brownstone High School, Sunny Meadows"
-}
-
+    {
+        "Timer_Hunt":"Hunt",
+        "Timer_Hunt_Cursed":"Hunt Cursed",
+        "Timer_Hunt_Post":"Hunt Post",
+        "Timer_Hunt_Post_Demon":"Hunt Post Demon",
+        "Timer_Hunt_Smudge":"Smudging",
+        "Timer_Smudge_Demon":"Smudging Demon",
+        "Timer_Smudge_Spirit":"Smudging Spirit",
+        "Timer_Start":"Start",
+        "Dif_Amateur":"▼ Amateur",
+        "Dif_Intermediate":"▼ Intermediate",
+        "Dif_Nightmare":"▼ Nightmare",
+        "Dif_Professional":"▼ Professional",
+        "Small":"6 Tanglewood Drive, 10 Ridgeview Court, 13 Willow Street, 42 Edgefield Road, Bleasdale Farmhouse, Camp Woodwind, Grafton Farmhouse, Point Hope",
+        "Medium":"Maple Lodge Campsite, Prison, Sunny Meadows (Restricted)",
+        "Big":"Brownstone High School, Sunny Meadows"
+    }
 ]
