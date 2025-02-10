@@ -1,4 +1,4 @@
-# <img src="./Resources/$this.Icon.ico" alt="PhasmoGadget Logo"> Phasmo Gadget ![PhasmoGadget Ghost](https://i.imgur.com/77JG6Xw.png)
+# <img src="./Resources/$this.Icon.ico" alt="PhasmoGadget Logo"> Phasmo Gadget <img src="./Resources/ghost_symbol_x32png.png" alt="PhasmoGadget Ghost">
 
 <details>
 <summary>English</summary>
@@ -67,9 +67,9 @@ It works even without the game installed.
 No game data will be read, modified, or saved.
 
 ## Screenshots
-<img src="https://i.imgur.com/3TWZZln.png" alt="PhasmoGadget Main" width="300"> <img src="https://i.imgur.com/yelarrO.png" alt="PhasmoGadget Settings" width="300">
+<img src="./Images/Main.png" alt="PhasmoGadget Main" width="300"> <img src="./Images/Settings.png" alt="PhasmoGadget Settings" width="300">
 
-<img src="https://i.imgur.com/ZZKvCkF.png" alt="PhasmoGadget Main With Ghosts" width="300"> <img src="https://i.imgur.com/l4pO7Ds.png" alt="PhasmoGadget Hints" width="300">
+<img src="./Images/Main and Ghost Info.png" alt="PhasmoGadget Main With Ghosts" width="300"> <img src="./Images/Hints.png" alt="PhasmoGadget Hints" width="300">
 
 ## Installation and launch
 
