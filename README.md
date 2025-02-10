@@ -157,9 +157,9 @@ To launch PG, ensure all requirements are met. If everything is set up correctly
 Никакие игровые данные не читаются, не изменяются и не сохраняются.
 
 ## Скриншоты
-<img src="https://i.imgur.com/3TWZZln.png" alt="PhasmoGadget Main" width="300"> <img src="https://i.imgur.com/yelarrO.png" alt="PhasmoGadget Settings" width="300">
+<img src="./Images/Main.png" alt="PhasmoGadget Main" width="300"> <img src="./Images/Settings.png" alt="PhasmoGadget Settings" width="300">
 
-<img src="https://i.imgur.com/ZZKvCkF.png" alt="PhasmoGadget Main With Ghosts" width="300"> <img src="https://i.imgur.com/l4pO7Ds.png" alt="PhasmoGadget Hints" width="300">
+<img src="./Images/Main and Ghost Info.png" alt="PhasmoGadget Main With Ghosts" width="300"> <img src="./Images/Hints.png" alt="PhasmoGadget Hints" width="300">
 
 ## Установка и запус
 
