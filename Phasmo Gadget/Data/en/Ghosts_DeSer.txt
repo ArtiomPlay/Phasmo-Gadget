@@ -165,7 +165,7 @@ Moroi
         ●When a player is cursed, their passive sanity drain is doubled, being in a lit area will no longer prevent sanity drain, and the light from Firelights will no longer mitigate against sanity loss. Walking outside of the investigation area will still pause sanity drain until they enter again. Consuming Sanity Medication removes the curse for that player. Players that have been cursed before in the contract can be cursed again. Multiple players can be cursed at the same time, but curses do not stack on a single player
         ●The Moroi's speed is dependent on the average sanity at the beginning of the hunt. The base speed increases by an average of 0.083 m/s for every 5% average sanity below its average hunt threshold of 50%. The list below shows each possible base speed for the Moroi:
           ●Average sanity % - Base ghost speed
-          ●≥ 45%-1.5 m/s
+          ●≥ 45% - 1.5 m/s
           ●40%-45% - 1.583 m/s
           ●35%-40% - 1.66 m/s
           ●30%-35% - 1.749 m/s
@@ -210,10 +210,10 @@ Obake
           ●Two fingerprints instead of one on light switches, lamps, and TV remotes
           ●Five fingerprints instead of four on keyboards and Prison cell doors
         ●The Obake occasionally triggers an ability to reduce the remaining time for all existing fingerprints on the map by half. This ability can be triggered multiple times in quick succession, making it possible for an instance of fingerprints to last for mere seconds before vanishing
-        ●When performing a fake hunt ghost event or a Music Box event, the Obake is the only ghost that will sometimes miss a footstep sound.
+        ●When performing a fake hunt ghost event or a Music Box event, the Obake is the only ghost that will sometimes miss a footstep sound
         ●During a hunt, the Obake will occasionally shapeshift into a different ghost model of the same gender during a flicker. Dead players cannot see this shapeshift
         ●A shapeshift will always occur on the 12th, 27th, 39th, 54th, 62nd, 80th, 105th, 120th, and 132nd flickers (starting with the first flicker-in) of a hunt
-          ●This means that the first shapeshift will happen approximately 7 - 9 seconds after the grace period ends.
+          ●This means that the first shapeshift will happen approximately 7 - 9 seconds after the grace period ends
           ●This also means that the Obake will not shapeshift at all if the hunt ends prematurely (after the ghost kills a player or when all players leave the investigation area), as it will not have the time to reach the 12th flicker
         ●When shapeshifting, the Obake has an order of models it will use. The first shapeshift of the contract will always be using the first ghost model. The second shapeshift will then use the second model, the third one the third model, and so on with the list looping on itself. When the Obake reaches its own model in the list, it will shapeshift into itself with a more or less visible posture reset
         ●Both the shapeshifting and the fingerprint duration's reduction will count as an ability in the post-game statistics
@@ -397,7 +397,7 @@ The Mimic
     Type Title - Type
     Type - The Copycat
     Hunt Title - Hunt Base / Special
-    Hunt - 50%/Mimiced ghost
+    Hunt - 50%/Mimicked ghost
     Hunt Abilities Title - Special Abilities
     Hunt Abilities - Can mimic any ghost and it's abilities
     Smudging Title - Smudging
@@ -464,7 +464,7 @@ Yokai
     Smudging Title - Smudging
     Smudging - 90 seconds
     Hints:
-        ●Utilizing voice chat near the Yokai at any sanity will increase its rate of activity.
+        ●Utilizing voice chat near the Yokai at any sanity will increase its rate of activity
         ●When a Music Box is used, the Yokai must be closer to the box (within 2.5 metres instead of 5) for it to trigger the ghost event and eventual cursed hunt
         ●When at least one player uses voice chat in the same room as the Yokai, its hunt sanity threshold is temporarily increased to 80%. Otherwise, it has the standard threshold of 50%
         ●During hunts, a Yokai can only hear players or sense handheld active electronics that are within 2.5 meters of it. Its line-of-sight is unaffected
