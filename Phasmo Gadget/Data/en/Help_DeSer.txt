@@ -122,7 +122,7 @@ Basics
           ●Medium (Nightmare): 66%
           ●High (Insanity): 100%
         ●If the chance above succeeds, a second chance roll is performed on the complement of the average sanity (or insanity); for example, an average sanity of 80% has a 20% chance of succeeding. If both chances are successful, the favourite room will change to the ghost's current room
-        The Banshee and the Goryo cannot change their favourite room by themselves, even with the "Changing favourite room" parameter set to High. Using a specific Monkey Paw wish can force them to change the favourite room once
+        ●The Banshee and the Goryo cannot change their favourite room by themselves, even with the "Changing favourite room" parameter set to High. Using a specific Monkey Paw wish can force them to change the favourite room once
 
       Disallowed favourite rooms
         ●Some maps have rooms such as corridors or hallways which cannot be chosen as the favourite room. The ghost can still roam into these rooms, provide evidence in these rooms, interact with items in or around the room, and spawn in these rooms during hunts or manifestations, but Ghost Orbs cannot be present in these rooms, the ghost will always fail its favourite room change roll if it ends up in one after a long roam, and it will not teleport to these rooms after a hunt
@@ -219,7 +219,7 @@ Ghost
       ●The length of death of a ghost (i.e. the age it would be today if it were still alive) is a randomly generated number between 50 (overlapping with their death age between 50 and 90) and 1000 years
 
     Age
-      ●The age of the ghost (at their time of death) is a randomly generated number between 10 and 90 years.[2] Note that this is not correlated with the ghost model
+      ●The age of the ghost (at their time of death) is a randomly generated number between 10 and 90 years. Note that this is not correlated with the ghost model
 
     Spirit box responsiveness
       ●If the ghost is indicated to respond only to "people who are alone", the ghost will only respond to the Spirit Box if there is only one player in the room when the question is asked. A ghost which responds to everyone means that the number of people in the room does not affect its ability to respond. This characteristic is not indicated if there is no setup time (e.g., on Professional and Nightmare difficulties). This characteristic is only relevant for ghosts with the Spirit Box evidence, and is not synonymous with ghost activity
@@ -1746,7 +1746,7 @@ Monkey Paw
     If the Monkey Paw recognizes a valid phrase, regardless if it's a valid wish or not, or when entering/exiting the investigation area, its fingers will twitch. When a wish is being granted, one of its fingers will bend. When all fingers are bent, the Monkey Paw cannot be used anymore
 
     Most wishes can be found on tags scattered in Sunny Meadows. Picking a tag up (except for weather and anything wishes) will record the wish in the journal. There is no need to find the wishes to use the Monkey Paw. Each wish can only be used once per contract
-    All possible questions can be fount in Monkey Paw Phrases tab
+    All possible wishes can be fount in Monkey Paw Phrases tab
 
 Music Box
     The music box is a cursed possession that can be used to pinpoint the location of the ghost, though one is at considerable risk if one is careless with it
@@ -1787,7 +1787,7 @@ Ouija Board
     The player asking the question must be within the investigation area to ask questions, but does not have to be in the ghost room (nor the ghost's current room)
 
     If the question is recognised, the planchette will move to answer the question, and an EMF Level 2 reading will be generated around the Ouija Board. If the ghost has EMF Level 5 as evidence, there is a 25% chance for this to instead be the reading per question asked
-    All possible questions can be fount in Quija Board Phrases tab
+    All possible questions can be fount in Ouija Board Phrases tab
 
     Whether the ghost is "shy" or not does not affect its ability to respond via the Ouija Board. If the Ouija Board is asked a question via voice but nothing happens, then either the board is not activated or the phrase was not recognised. There is a cooldown of ~2.5 seconds for clicking via text-based UI, while there is no cooldown time for voice chat other than any voice recognition limitations
 
@@ -1832,6 +1832,11 @@ Tarot Cards
         ●Burn Color: Blue
         ●Draw Chance: 20%
 
+      The Wheel of Fortune
+        ●Effect: The individual player gains 25% sanity if the card burns green, or loses 25% sanity if the card burns red
+        ●Burn Color: Green (sanity gain), Red (sanity loss)
+        ●Draw Chance: 20%
+
       The Fool
         ●Effect: Randomly selects another card to appear as, before turning into The Fool as it burns. No effect is applied when drawing this card
         ●Burn Color: Light Purple
@@ -1839,7 +1844,7 @@ Tarot Cards
 
       The Devil
         ●Effect: Triggers a Ghost Event towards the nearest player to the ghost
-        ●Burn Color: Blue
+        ●Burn Color: Pink
         ●Draw Chance: 20%
 
       Death
@@ -1938,25 +1943,43 @@ Phrases
 
 Spirit Box Phrases
     Aggresion-related questions:
-      ●Are you friendly?
       ●What do you want?
       ●Why are you here?
       ●Do you want to hurt us?
+      ●Are you angry?
+      ●Do you want us here?
+      ●Shall we leave?
       ●Should we leave?
+      ●Do you want us to leave?
+      ●What should we do?
+      ●Can we help?
+      ●Is anything wrong?
+      ●Are you friendly?
 
     Location-related question:
       ●Where are you?
       ●Are you close?
+      ●Can you show yourself?
       ●Give us a sign
-      ●Speak to us
+      ●Let us know you are here
+      ●Show yourself
       ●Can you talk?
+      ●Speak to us
       ●Are you here?
+      ●Are you with us?
+      ●Anybody with us?
+      ●Is anyone here?
+      ●Anybody in the room?
+      ●Anybody here?
+      ●Is there a Spirit here?
       ●Is there a Ghost here?
       ●What is your location?
-      ●Show yourself
 
     Age-related question:
       ●How old are you?
+      ●How young are you?
+      ●What is your age?
+      ●When were you born?
       ●Are you a child?
       ●Are you old?
       ●Are you young?
