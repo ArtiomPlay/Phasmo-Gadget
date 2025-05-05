@@ -1799,6 +1799,7 @@ namespace PhasmoGadget.PhasmoGadget {
             this.cbMaps.Show();
             
             this.lblDif.Show();
+            this.lblHint.Show();
             this.lblGhInfoType.Show();
             this.lblGhInfoTypeData.Show();
             this.lblGhInfoHunt.Show();
@@ -1846,6 +1847,7 @@ namespace PhasmoGadget.PhasmoGadget {
             this.cbMaps.Hide();
             
             this.lblDif.Hide();
+            this.lblHint.Hide();
             this.lblGhInfoType.Hide();
             this.lblGhInfoTypeData.Hide();
             this.lblGhInfoHunt.Hide();
